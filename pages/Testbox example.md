@@ -1,6 +1,5 @@
 - IK ben een titel
 	-
-	  background-image:: https://images.unsplash.com/photo-1498855926480-d98e83099315
 	- ldkasjdals das
 	- dasdl kdjalsdas
 	- d ;laskdj
