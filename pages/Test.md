@@ -1,0 +1,19 @@
+-
+-
+- AS A saSAs
+	- aS AsAS AsA
+	- AsaS
+- [[Task Inbox]]
+-
+	-
+- [[Tasks Inbox]]
+	- [[Areas]]
+		- DONE sdf sdf sdf sdf
+		- DONE sd fsdf sdf sdf
+		- DONE sda asd asd asd
+		- DONE asd asd asd asd
+- [[Tasks Inbox]]
+	- [[Areas]]
+		- DONE DIt is een test taak
+			- DONE das dasd asd asd asd
+			  id:: f83c3303-1c2e-4436-8646-1ad3fba9b798
