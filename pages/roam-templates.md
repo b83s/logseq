@@ -2,51 +2,52 @@
 title: roam/templates
 ---
 
+- personal todos
 - boodschappen:
+  template:: Boodschappen
 	- [[Boodschappen]]
-	  template:: Boodschappen
 		- **Groenten en Fruit**
-			- TODO Aardappelen 
+			- Aardappelen 
 			  id:: 78b26601-1345-490c-9431-1856c324ce0f
-			- TODO witlof
-			- TODO komkommers
-			- TODO Broccoli
-			- TODO Peren of ander fruit
+			- witlof
+			- komkommers
+			- Broccoli
+			- Peren of ander fruit
 			  id:: bbc1ad95-0a90-41c4-a5dd-54f562ebbcfc
-			- TODO Bananen
-			- TODO snoeptomaten
-			- TODO Wortelen
+			- Bananen
+			- snoeptomaten
+			- Wortelen
 			  id:: 81f9a420-380c-4829-aeb7-3d1ecc1e54ea
-			- TODO Bietjes
-			- TODO Zakje salade
+			- Bietjes
+			- Zakje salade
 		- **Vlees of Vis**
 			-
 		- **Brood en ontbijt**
-			- TODO Brood
-			- TODO Krentenbollen
-			- TODO Koffie
-			- TODO Thee
-			- TODO eieren
-			- TODO Crackers
+			- Brood
+			- Krentenbollen
+			- Koffie
+			- Thee
+			- eieren
+			- Crackers
 		- **Middenstuk**
-			- TODO Geitenkaas 2x
-			- TODO Houdbare melk 5 x
-			- TODO Amandelmelk 2x
-			- TODO cola decaf zero
-			- TODO Kattenvoer
-			- TODO Kattengrid
-			- TODO Humus
-			- TODO Afwasmiddel
-			- TODO WC papier
-			- TODO 0% bosvruchten aanmaak
-			- TODO Augurkjes
+			- Geitenkaas 2x
+			- Houdbare melk 5 x
+			- Amandelmelk 2x
+			- cola decaf zero
+			- Kattenvoer
+			- Kattengrid
+			- Humus
+			- Afwasmiddel
+			- WC papier
+			- 0% bosvruchten aanmaak
+			- Augurkjes
 		- **Diepvries en Zuivel**
-			- TODO Karnemelk 2x
-			- TODO Magere yoghurt
-			- TODO Vanille vla 1x
-			- TODO Boter
-			- TODO zalm diepvries
-			- TODO Spinazi
+			- Karnemelk 2x
+			- Magere yoghurt
+			- Vanille vla 1x
+			- Boter
+			- zalm diepvries
+			- Spinazi
 - Projects
 	- **Tags:** #[[Projects]]
 	  **Due date:** 
