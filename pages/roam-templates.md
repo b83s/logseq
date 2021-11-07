@@ -4,8 +4,8 @@ title: roam/templates
 
 - personal todos
 - boodschappen:
-  template:: Boodschappen
 	- [[Boodschappen]]
+	  template:: Boodschappen
 		- **Groenten en Fruit**
 			- Aardappelen 
 			  id:: 78b26601-1345-490c-9431-1856c324ce0f
